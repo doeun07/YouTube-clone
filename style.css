@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration-line: none;
+    color: black
+}
+
+#a {
+    display: flex;
+    flex-direction: row;
+}
+
+#b {
+    margin: 10px;
+    margin-top: 20px;
+}
+
+#c {
+    margin-left: 500px;
+    margin-top: 30px;
+}
+
+#d {
+    margin-left: 380px;
+    margin-top: 25px;
+}
+
+
+#e {
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+#f {
+    width: 350px;
+    border-radius: 15px;
+}
+
+#g {
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+}
+
+#h {
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+#i {
+    clear: both;
+    color: gray;
+    font-size: 13px;
+    margin-left: 42.5px;
+}
+
+.a {
+    width: 1100px;
+    margin-left: -30px;
+}
+
+.b {
+    display: flex;
+    flex-direction: row;
+}
+
+.p li {
+    float: left;
+}
+
+.imgDiv {
+    position: relative;
+    width: 100%;
+}
+
+.imgTextDiv {
+    position: absolute;
+    width: 100%;
+}
+
+.top1 {
+    top: 290px;
+}
+
+.top2 {
+    top: 590px;
+}
+
+.top3 {
+    top: 890px;
+}
+
+.left1 {
+    left: 685px;
+}
+
+.left2 {
+    left: 1065px;
+}
+
+.left3 {
+    left: 1450px;
+}
+
+.left4 {
+    left: 1827px;
+}
+
+
+i {
+    cursor: pointer;
+}
+.hover{
+    cursor: pointer;
+}
+
+.imgTextDiv p {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    display: inline;
+    padding: 2px 5px;
+    border-radius: 4px;
+}
+
+.imgDiv img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+#유튜브로고 {
+    width: 120px;
+    height: 50px;
+    margin: 5px;
+    margin-top: 10px;
+}
+
+input {
+    border: 0px;
+    width: 700px;
+    height: 40px;
+    margin-left: 69%;
+    margin-top: 10px;
+    border: solid 0.5px;
+    border-color: gray;
+    border-radius: 30px;
+    padding-left: 10px;
+}
+
+#프로필 {
+    margin-left: 25px;
+    margin-top: 15px;
+    width: 35px;
+    height: 35px;
+    color: white;
+    font-size: 20px;
+    background-color: orange;
+    border-radius: 100%;
+    border: solid 0px;
+}
+
+button {
+    background-color: rgb(240, 240, 240);
+    color: black;
+    border: 0px;
+    border-radius: 0.4rem;
+    height: 27px;
+    font-size: 15px;
+    margin-left: 4px;
+}
+
+button:hover {
+    background-color: rgb(153, 153, 153);
+}
+
+li {
+    height: 30px;
+    border-radius: 0.4rem;
+    list-style: none;
+}
+
+.hover:hover {
+    background-color: rgb(225, 225, 225);
+}
+
+.menu {
+    width: 300px;
+    height: 1000px;
+    margin-top: 23px;
+    margin-right: 130px;
+    margin-left: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+.cont {
+    display: flex;
+}
+
+.v {
+    height: 280px;
+    width: 350px;
+    margin-right: 30px;
+}
+
+.a1 {
+    padding: 1px 5px;
+    cursor: pointer;
+}
